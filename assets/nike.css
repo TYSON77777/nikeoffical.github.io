@@ -85,6 +85,12 @@ img{
     
     
   }
+.run video{
+    margin-left: 15%;
+    margin-right: 10%;
+    object-fit:cover;
+
+}
 
   .input-container .icon {
     margin-right: 10px; 
