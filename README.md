@@ -1,5 +1,5 @@
 ## <a href="your-link-here" style="text-decoration: none; color: inherit;">
-  <img src="https://png.pngitem.com/pimgs/s/41-419233_transparent-white-nike-swoosh-png-nike-logo-grey.png" alt="Nike Logo" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px; display: inline-block; background-color: transparent;" />
+  <img src="https://www.citypng.com/public/uploads/preview/hd-white-nike-logo-transparent-png-701751694777170hrodp6c2ek.png" alt="Nike Logo" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px; display: inline-block; background-color: transparent;" />
   Nike Website Clone 🏆
 </a>
 
