@@ -1,5 +1,5 @@
 ## <a href="your-link-here">
-  <img src="https://i.pinimg.com/originals/90/41/ef/9041ef423df5957af837aaa01ca1c55c.png" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px;" />
+  <img src="https://spng.pngfind.com/pngs/s/126-1269516_are-you-a-federal-employee-impacted-by-the.png" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px;" />
   Nike Website Clone 🏆
 </a>
 
@@ -17,6 +17,7 @@ This is my **first project** where I've created a Nike website clone using **HTM
 
 - **HTML** for the structure
 - **CSS** for styling and layout
+
 - **JavaScript** for any dynamic interactions
 
 ### Future Improvements 🚀
@@ -25,3 +26,5 @@ This is my **first project** where I've created a Nike website clone using **HTM
 - **Interactive Features:** Add more dynamic elements and interactivity to enhance user experience.
 
 Feel free to explore the project and see how I brought the Nike brand's visual style to life! 🌐
+<!-- Markdown for the image -->
+![Nike](https://github.com/user-attachments/assets/d5f9f620-2958-4ff7-a0a9-94ce54be745f)
