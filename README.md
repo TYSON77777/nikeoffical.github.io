@@ -1,7 +1,6 @@
-## Nike Website Clone 🏆
-
-<a href="your-link-here">
-  <img src="https://w0.peakpx.com/wallpaper/794/312/HD-wallpaper-nike-black-logo-white-thumbnail.jpg" alt="Nike Logo" width="150" height="auto" />
+## <a href="your-link-here">
+  <img src="https://i.pinimg.com/originals/90/41/ef/9041ef423df5957af837aaa01ca1c55c.png" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px;" />
+  Nike Website Clone 🏆
 </a>
 
 ### Overview 🌟
@@ -20,3 +19,9 @@ This is my **first project** where I've created a Nike website clone using **HTM
 - **CSS** for styling and layout
 - **JavaScript** for any dynamic interactions
 
+### Future Improvements 🚀
+
+- **Responsiveness:** Plan to make the site fully responsive to ensure it looks great on all devices.
+- **Interactive Features:** Add more dynamic elements and interactivity to enhance user experience.
+
+Feel free to explore the project and see how I brought the Nike brand's visual style to life! 🌐
