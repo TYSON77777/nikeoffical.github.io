@@ -1,7 +1,8 @@
-## <a href="your-link-here">
-  <img src="https://spng.pngfind.com/pngs/s/126-1269516_are-you-a-federal-employee-impacted-by-the.png" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px;" />
+## <a href="your-link-here" style="text-decoration: none; color: inherit;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ULfEzoNfcNNYrHUu_IZPgcYtGJIOpGxYDA&s" alt="Nike Logo" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px; display: inline-block; background-color: transparent;" />
   Nike Website Clone 🏆
 </a>
+
 
 ### Overview 🌟
 
